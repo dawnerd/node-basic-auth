@@ -1,4 +1,4 @@
-## node-basic-auth
+# node-basic-auth
 
 ### Why?
 
