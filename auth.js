@@ -1,7 +1,4 @@
 module.exports = function(config) {
-
-
-  
   return {
     auth: function auth(req, res, next) {
       if(req.headers.authorization && req.headers.authorization.search('Basic ') === 0) {
