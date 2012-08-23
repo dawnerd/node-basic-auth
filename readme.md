@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dawnerd/node-basic-auth.png)](http://travis-ci.org/dawnerd/node-basic-auth)
 # node-basic-auth
 
 ### Why?
