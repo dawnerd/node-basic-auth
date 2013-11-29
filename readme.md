@@ -9,7 +9,7 @@ I needed just very basic auth for NodeJS and I couldn't find a module that worke
 To install:
 
 ```
-npm install basic-auth
+npm install basic-auth-old
 ```
 
 ```javascript
