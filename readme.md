@@ -1,7 +1,5 @@
 # node-basic-auth
 
-## Express now has a builtin BasicAuth middleware. See [http://expressjs.com/api.html#middleware](http://expressjs.com/api.html#middleware)
-
 ### Why?
 
 I needed just very basic auth for NodeJS and I couldn't find a module that worked.
